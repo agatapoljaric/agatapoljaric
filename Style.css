@@ -1,0 +1,37 @@
+p{
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 18px;
+    width: 600px;
+    background-color: white;
+    padding: 20px;
+}
+.paragraf_2 {color: darkturquoise;background-color: rgba(255, 255, 255, o.5);}
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(245, 220, 228);
+}
+
+span {color: rgb(40, 173, 167);}
+.pozadina{
+
+
+    background-image: url(slika10.jpg);}
+
+.drugapozadina {
+    background-color: darkgreys;
+}
+a{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border: 1px solid #000;
+}
+a:hover{
+    background-color: darkgray;
+}
+.image{
+    height: 400px;
+}
